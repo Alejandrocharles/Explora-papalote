@@ -3,6 +3,31 @@
 **Explora Papalote** is an innovative iOS application designed to enrich the visitor experience at **Papalote Museo del Niño**. By offering interactive tours and engaging activities, the app creates a unique and educational journey for both children and adults. Through gamification and advanced data analysis, visitors can personalize their experience and explore the museum in a whole new way.
 
 ---
+## 📱 App Screenshots
+<div align="center">
+  <img src="./app-1.png" alt="Explora Papalote App Screenshot" width="250"/>
+  <img src="./app-2.png" alt="Explora Papalote App Screenshot" width="250"/>
+  <img src="./app-3.png" alt="Explora Papalote App Screenshot" width="250"/>
+</div>
+
+<div align="center">
+  <img src="./app-4.png" alt="Explora Papalote App Screenshot" width="250"/>
+  <img src="./app-5.png" alt="Explora Papalote App Screenshot" width="250"/>
+  <img src="./app-6.png" alt="Explora Papalote App Screenshot" width="250"/>
+</div>
+
+<div align="center">
+  <img src="./app-7.png" alt="Explora Papalote App Screenshot" width="250"/>
+  <img src="./app-8.png" alt="Explora Papalote App Screenshot" width="250"/>
+  <img src="./app-9.png" alt="Explora Papalote App Screenshot" width="250"/>
+</div>
+
+<div align="center">
+  <img src="./app-10.png" alt="Explora Papalote App Screenshot" width="250"/>
+  <img src="./app-11.png" alt="Explora Papalote App Screenshot" width="250"/>
+  <img src="./app-12.png" alt="Explora Papalote App Screenshot" width="250"/>
+</div>
+
 
 ## ✨ Key Features
 
