@@ -12,7 +12,6 @@
 
 <div align="center">
   <img src="./app-4.png" alt="Explora Papalote App Screenshot" width="250"/>
-  <img src="./app-5.png" alt="Explora Papalote App Screenshot" width="250"/>
   <img src="./app-6.png" alt="Explora Papalote App Screenshot" width="250"/>
 </div>
 
@@ -27,6 +26,7 @@
   <img src="./app-11.png" alt="Explora Papalote App Screenshot" width="250"/>
   <img src="./app-12.png" alt="Explora Papalote App Screenshot" width="250"/>
 </div>
+  <img src="./app-5.png" alt="Explora Papalote App Screenshot" width="250"/>
 
 
 ## ✨ Key Features
